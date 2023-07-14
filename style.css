@@ -130,7 +130,7 @@ header nav .logo-150{
     position: relative;
 }
 
-.top-slide .carousel-inner > button:first-child{
+.top-slide .carousel-inner .first-button{
     position: absolute;
     font-size: 0.6rem;
     background: none;
@@ -138,22 +138,22 @@ header nav .logo-150{
     left: 35%;
 
 }
-.bottom-slide .carousel-inner > button:first-child{
+.bottom-slide .carousel-inner .first-btn{
     position: absolute;
-    left: 5%;
+    left: 10%;
     background: none;
     border: none;
     font-size: 0.7rem;
    
 }
-.top-slide .carousel-inner > button:last-child{
+.top-slide .carousel-inner .second-button{
     position: absolute;
     right: 35%;
     background: none;
     border: none;
     font-size: 0.6rem;
 }
-.bottom-slide .carousel-inner > button:last-child{
+.bottom-slide .carousel-inner .second-btn{
     position: absolute;
     right: 5%;
     background: none;
